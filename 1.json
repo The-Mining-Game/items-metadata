@@ -1,0 +1,28 @@
+{
+  "name": "Gaming PC",
+  "description": "The basic PC needed to play the Mining Game. Free to mint.",
+  "image": "https://ordinals.gorillapool.io/content/923634110def3e7c8ce4564746c8880cf41963621d8d70ae0cee2aabe8994e07_0",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "PC"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Hashrate",
+      "value": 2
+    },
+    {
+      "trait_type": "WATT per hour",
+      "value": 5
+    },
+    {
+      "trait_type": "Stake Weight",
+      "value": 1
+    }
+  ]
+}

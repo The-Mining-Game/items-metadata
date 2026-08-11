@@ -1,0 +1,20 @@
+{
+  "name": "Red Mouse",
+  "description": "+2% luck. Battlestation set bonus with keyboard & monitor.",
+  "image": "https://items.wattxchange.app/watt.png",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Peripheral"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Luck",
+      "value": 2
+    }
+  ]
+}

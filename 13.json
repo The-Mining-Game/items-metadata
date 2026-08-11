@@ -1,0 +1,28 @@
+{
+  "name": "Bit Hammer ASIC",
+  "description": "Purpose-built hashing brick. One per rig. Runs HOT.",
+  "image": "https://items.wattxchange.app/watt.png",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "ASIC"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 2
+    },
+    {
+      "trait_type": "Hashrate",
+      "value": 320
+    },
+    {
+      "trait_type": "WATT per hour",
+      "value": 110
+    },
+    {
+      "trait_type": "Stake Weight",
+      "value": 120
+    }
+  ]
+}

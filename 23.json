@@ -1,0 +1,20 @@
+{
+  "name": "LC23 Monitor",
+  "description": "+2% luck. A second screen for every desk.",
+  "image": "https://items.wattxchange.app/watt.png",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Peripheral"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Luck",
+      "value": 2
+    }
+  ]
+}

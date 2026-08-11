@@ -1,0 +1,28 @@
+{
+  "name": "XXL270 CPU",
+  "description": "The biggest chip Kirtex ever fabbed. Server-grade.",
+  "image": "https://items.wattxchange.app/watt.png",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "CPU"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 2
+    },
+    {
+      "trait_type": "Hashrate",
+      "value": 70
+    },
+    {
+      "trait_type": "WATT per hour",
+      "value": 15
+    },
+    {
+      "trait_type": "Stake Weight",
+      "value": 40
+    }
+  ]
+}

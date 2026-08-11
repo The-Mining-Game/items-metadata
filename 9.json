@@ -1,0 +1,28 @@
+{
+  "name": "XL190 CPU",
+  "description": "Kirtex second-gen processor. Massive uplift over the XL1.",
+  "image": "https://items.wattxchange.app/watt.png",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "CPU"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 2
+    },
+    {
+      "trait_type": "Hashrate",
+      "value": 35
+    },
+    {
+      "trait_type": "WATT per hour",
+      "value": 8
+    },
+    {
+      "trait_type": "Stake Weight",
+      "value": 22
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "GPX880 GPU",
+  "description": "Legendary dual-fan monster. The fastest GPU in the game.",
+  "image": "https://items.wattxchange.app/watt.png",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "GPU"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 2
+    },
+    {
+      "trait_type": "Hashrate",
+      "value": 180
+    },
+    {
+      "trait_type": "WATT per hour",
+      "value": 60
+    },
+    {
+      "trait_type": "Stake Weight",
+      "value": 75
+    }
+  ]
+}

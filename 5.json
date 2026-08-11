@@ -1,0 +1,28 @@
+{
+  "name": "GP50 GPU",
+  "description": "A powerful GPU upgrade for your Gaming PC.",
+  "image": "https://ordinals.gorillapool.io/content/9215066c4a8eb8768f768f8575ede8a8ec17c40901e1ceefd347b13034b3b849_0",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "GPU"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Hashrate",
+      "value": 33
+    },
+    {
+      "trait_type": "WATT per hour",
+      "value": 16
+    },
+    {
+      "trait_type": "Stake Weight",
+      "value": 18
+    }
+  ]
+}

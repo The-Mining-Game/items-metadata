@@ -1,0 +1,28 @@
+{
+  "name": "Genesis Badge",
+  "description": "Only 100 will ever exist. +10% luck, +10% efficiency, stake weight 42.",
+  "image": "https://ordinals.gorillapool.io/content/57835521726c9ad954f74fd1207af08fcaafbd5f923b21354fa6599c0189134f_0",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Badge"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Stake Weight",
+      "value": 42
+    },
+    {
+      "trait_type": "Efficiency",
+      "value": 10
+    },
+    {
+      "trait_type": "Luck",
+      "value": 10
+    }
+  ]
+}

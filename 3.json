@@ -1,0 +1,28 @@
+{
+  "name": "XL1 Processor",
+  "description": "CPU upgrade for your Gaming PC. Earns play-to-earn rewards.",
+  "image": "https://ordinals.gorillapool.io/content/6c7039a3380eabb42540151b884be4e3fbfa2dfd2690cd80b8a653db3dc614cf_0",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "CPU"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Hashrate",
+      "value": 10
+    },
+    {
+      "trait_type": "WATT per hour",
+      "value": 2
+    },
+    {
+      "trait_type": "Stake Weight",
+      "value": 9
+    }
+  ]
+}

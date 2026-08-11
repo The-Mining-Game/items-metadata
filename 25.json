@@ -1,0 +1,16 @@
+{
+  "name": "Shipping Container",
+  "description": "20ft high-cube container. Unlocks the PRO mining farm — 6 rack slots.",
+  "image": "https://items.wattxchange.app/watt.png",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Structure"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 2
+    }
+  ]
+}

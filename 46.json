@@ -1,0 +1,20 @@
+{
+  "name": "Power Upgrade Lv7",
+  "description": "Power grid upgrade level 7. Adds capacity to run more hardware.",
+  "image": "https://items.wattxchange.app/watt.png",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Upgrade"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Power",
+      "value": 7
+    }
+  ]
+}

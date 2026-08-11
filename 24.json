@@ -1,0 +1,20 @@
+{
+  "name": "Gaming Chair",
+  "description": "+3% luck. A racing-style RGB chair for the battlestation.",
+  "image": "https://items.wattxchange.app/watt.png",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Peripheral"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Luck",
+      "value": 3
+    }
+  ]
+}

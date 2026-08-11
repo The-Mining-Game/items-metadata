@@ -1,0 +1,20 @@
+{
+  "name": "Cooling Upgrade Lv4",
+  "description": "Cooling upgrade level 4. Lowers ambient temperature, protects hashrate.",
+  "image": "https://items.wattxchange.app/watt.png",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Upgrade"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Cooling",
+      "value": 4
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Mining Rig Frame",
+  "description": "Open-air frame. Expands a rig from 2 to 4 GPU slots.",
+  "image": "https://items.wattxchange.app/watt.png",
+  "external_url": "https://mining-game.wattxchange.app/",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Frame"
+    },
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Stake Weight",
+      "value": 10
+    }
+  ]
+}
