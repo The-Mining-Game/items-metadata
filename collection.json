@@ -1,7 +1,7 @@
 {
-  "name": "Mining Game Items",
-  "description": "On-chain hardware for The Mining Game — components, upgrades and enhancements, each with real traits. Buy with WATT (funds the staking pool) or any accepted currency at WATT value. Play at mining-game.wattxchange.app.",
-  "image": "https://items.wattxchange.app/watt.png",
+  "name": "The Mining Game v3",
+  "description": "On-chain hardware for The Mining Game \u2014 components, upgrades and enhancements, each with real traits. Buy with WATT (funds the staking pool) or any accepted currency at WATT value. Play at mining-game.wattxchange.app.",
+  "image": "https://items.wattxchange.app/collection-logo.png",
   "external_link": "https://mining-game.wattxchange.app/",
   "seller_fee_basis_points": 500
 }
